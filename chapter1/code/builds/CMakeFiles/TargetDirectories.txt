@@ -1,0 +1,3 @@
+/home/guanzhi/Documents/CUDA_and_TensorRT/Chapter_1/code/builds/CMakeFiles/test.dir
+/home/guanzhi/Documents/CUDA_and_TensorRT/Chapter_1/code/builds/CMakeFiles/edit_cache.dir
+/home/guanzhi/Documents/CUDA_and_TensorRT/Chapter_1/code/builds/CMakeFiles/rebuild_cache.dir
